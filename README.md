@@ -25,6 +25,7 @@
 [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/#nsc)<br>
 ### Windows Server 2022 
 [Windows Server 2022 ตอนที่ 1](https://www.youtube.com/watch?v=SmcwV1jlpnA)<br>
+[Windows Server 2022 ตอนที่ 2](https://www.youtube.com/watch?v=5akIqZob4j0)<br>
 [Comparison of Standard,](https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022)<br>
 []()<br>
 []()<br>
