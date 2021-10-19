@@ -32,6 +32,7 @@
 
 ### บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn <br>
 [Azure คืออะไร? | บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn](https://www.youtube.com/watch?v=3Arj5zlUPG4)<br>
+[OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms](https://www.youtube.com/watch?v=vv4y_uOneC0)<br>
 []()<br>
 []()<br>
 []()<br>
