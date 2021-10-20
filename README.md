@@ -26,10 +26,10 @@
 ### Windows Server 2022 
 [Windows Server 2022 ตอนที่ 1](https://www.youtube.com/watch?v=SmcwV1jlpnA)<br>
 [Windows Server 2022 ตอนที่ 2](https://www.youtube.com/watch?v=5akIqZob4j0)<br>
+[Windows Server 2022 ตอนที่ 3](https://www.youtube.com/watch?v=HRsfTYMOxBU)<br>
 [Comparison of Standard,](https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022)<br>
 [Windows Server Administration Fundamental Part1/4](https://www.youtube.com/watch?v=FXLsGM7ORaY)<br>
-[]()<br>
-[]()<br>
+[Windows Server 2022 ตอนที่ 4](https://www.youtube.com/watch?v=eG6xDgcm5JE)<br>
 []()<br>
 
 ### บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn <br>
