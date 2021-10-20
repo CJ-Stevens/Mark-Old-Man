@@ -45,3 +45,7 @@
 [Understanding Active Directory and Group Policy](https://www.youtube.com/watch?v=Q4I2lKHboDw)<br>
 []()<br>
 []()<br>
+
+### VDO ของทั่วไปเกี่ยวกับ config cisco 
+[เซ็ต VLAN และ inter VLAN กับอาจารย์ ปื๊ด](https://www.youtube.com/watch?v=pSM5vHiF7Lc)<br>
+[]()<br>
