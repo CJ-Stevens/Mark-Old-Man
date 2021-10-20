@@ -39,3 +39,7 @@
 []()<br>
 []()<br>
 
+### เข้าใจ Active Directory and Group Policy
+[Understanding Active Directory and Group Policy](https://www.youtube.com/watch?v=Q4I2lKHboDw)<br>
+[]()<br>
+[]()<br>
