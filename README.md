@@ -28,11 +28,14 @@
 [Windows Server 2022 ตอนที่ 2](https://www.youtube.com/watch?v=5akIqZob4j0)<br>
 [Windows Server 2022 ตอนที่ 3](https://www.youtube.com/watch?v=HRsfTYMOxBU)<br>
 [Windows Server 2022 ตอนที่ 4](https://www.youtube.com/watch?v=eG6xDgcm5JE)<br>
-
+[Windows Serser 2022 ตอนที่ 5](https://www.youtube.com/watch?v=mDLiSF318Ig)<br>
 [Comparison of Standard,](https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022)<br>
 [Windows Server Administration Fundamental Part1/4](https://www.youtube.com/watch?v=FXLsGM7ORaY)<br>
 
-[]()<br>
+### Windows Server 2019 Security
+[Windows Server 2019 Security ตอนที่ 1](https://www.youtube.com/watch?v=ivtoC62ZJFQ)<br>
+[Windows Server 2019 Security ตอนที่ 2](https://www.youtube.com/watch?v=6US0GbOsLus)<br>
+[Windows Server 2019 Security #3](https://www.youtube.com/watch?v=TL6wkhOVqLU)<br>
 
 ### บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn <br>
 [Azure คืออะไร? | บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn](https://www.youtube.com/watch?v=3Arj5zlUPG4)<br>
@@ -48,4 +51,6 @@
 
 ### VDO ของทั่วไปเกี่ยวกับ config cisco 
 [เซ็ต VLAN และ inter VLAN กับอาจารย์ ปื๊ด](https://www.youtube.com/watch?v=pSM5vHiF7Lc)<br>
-[]()<br>
+[คำสั่งNetworkพื้นฐาน ที่ช่วยในการแก้ไขเครือข่าย](https://www.youtube.com/watch?v=bX_J6pviBtE)<br>
+[การเชื่อมต่อเครือข่าย LAN ในสำนักงาน](https://www.youtube.com/watch?v=BRnLb0TWehI)<br>
+
