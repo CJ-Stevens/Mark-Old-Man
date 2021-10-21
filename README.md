@@ -35,8 +35,10 @@
 ### Windows Server 2019 Security
 [Windows Server 2019 Security ตอนที่ 1](https://www.youtube.com/watch?v=ivtoC62ZJFQ)<br>
 [Windows Server 2019 Security ตอนที่ 2](https://www.youtube.com/watch?v=6US0GbOsLus)<br>
-[Windows Server 2019 Security #3](https://www.youtube.com/watch?v=TL6wkhOVqLU)<br>
-
+[Windows Server 2019 Security ตอนที่ 3](https://www.youtube.com/watch?v=TL6wkhOVqLU)<br>
+[Windows Admin Center Tool](https://www.youtube.com/watch?v=A-tcV8Jvg6c)<br>
+[]()<br>
+[]()<br>
 ### บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn <br>
 [Azure คืออะไร? | บทช่วยสอน Microsoft Azure สำหรับผู้เริ่มต้น | การฝึกอบรม Microsoft Azure | Simplilearn](https://www.youtube.com/watch?v=3Arj5zlUPG4)<br>
 [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms](https://www.youtube.com/watch?v=vv4y_uOneC0)<br>
